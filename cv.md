@@ -15,7 +15,8 @@
     catch(error => console.err(error));
 
 ```
-7. VU (computer science, bachelor)  
-Vilnius Coding School (website development bootcamp)  
-CodeAcademy (FrontEnd Development Course)
-8. English C1. Established Language exchange community, where the main language of communication is English. Also used it for work on a daily basis. Have no struggle in understanding any sort of information in English.
+7. 
+* ***VU*** (computer science, bachelor)  
+* ***Vilnius Coding School*** (website development bootcamp)  
+* ***CodeAcademy*** (FrontEnd Development Course)
+8. **English C1**. Established Language exchange community, where the main language of communication is English. Also used it for work on a daily basis. Have no struggle in understanding any sort of information in English.
