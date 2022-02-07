@@ -2,7 +2,7 @@
 
 1. Jevgenija Sinkevič
 2. Telegram: @obsessedwithlogic, email: [jevsinkevich@gmail.com](mailto:jevsinkevich@gmail.com)
-3. I want to be a reliable team member who can perform task of various difficulty.
+3. I want to be a reliable team member who can perform tasks of various difficulty.
 4. HTML, CSS (intermediate), JavaScript (intermediate)
 5. Code examples
 ```
@@ -18,8 +18,8 @@
 7. Education and activities
 - Education and courses
 ```
-    Vilnius University (computer science, bachelor)  
-    Vilnius Coding School (website development bootcamp)  
+    Vilnius University (Computer Science, bachelor)  
+    Vilnius Coding School (Website Development Bootcamp)  
     CodeAcademy (FrontEnd Development Course)
 ```
 - Activities
